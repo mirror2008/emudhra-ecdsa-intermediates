@@ -1,0 +1,58 @@
+[
+  {
+    "file": "EM_DV_TLS_CA_-_G3B.pem",
+    "cn": "EM DV TLS CA - G3B",
+    "scalar_d": 156,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_DV_TLS_CA_-_G3B_d156.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_DV_TLS_CA_-_G3C.pem",
+    "cn": "EM DV TLS CA - G3C",
+    "scalar_d": 230,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_DV_TLS_CA_-_G3C_d230.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_EV_TLS_CA_-_G3B.pem",
+    "cn": "EM EV TLS CA - G3B",
+    "scalar_d": 115,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_EV_TLS_CA_-_G3B_d115.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_EV_TLS_CA_-_G3C.pem",
+    "cn": "EM EV TLS CA - G3C",
+    "scalar_d": 56,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_EV_TLS_CA_-_G3C_d56.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_OV_CS_CA_-_G3B.pem",
+    "cn": "EM OV CS CA - G3B",
+    "scalar_d": 66,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_OV_CS_CA_-_G3B_d66.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_OV_CS_CA_-_G3C.pem",
+    "cn": "EM OV CS CA - G3C",
+    "scalar_d": 237,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_OV_CS_CA_-_G3C_d237.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_OV_TLS_CA_-_G3B.pem",
+    "cn": "EM OV TLS CA - G3B",
+    "scalar_d": 155,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_OV_TLS_CA_-_G3B_d155.pem",
+    "verified_sign": true
+  },
+  {
+    "file": "EM_OV_TLS_CA_-_G3C.pem",
+    "cn": "EM OV TLS CA - G3C",
+    "scalar_d": 4,
+    "private_key_pem": "C:\\Users\\Mirror\\Desktop\\Working\\emudhra-ecdsa-intermediates\\recovered-private-keys\\EM_OV_TLS_CA_-_G3C_d4.pem",
+    "verified_sign": true
+  }
+]
